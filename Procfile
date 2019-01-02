@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT csantosmachadogmailco_572.wsgi:application
